@@ -1,0 +1,573 @@
+{
+  "doc": "Pizza.pdf + Rotkaeppchen.pdf",
+  "version": "2026-10-12",
+  "chunks": [
+    {
+      "id": "pizza-c001",
+      "doc": "Pizza.pdf",
+      "chunk_index": 1,
+      "page": 1,
+      "section": "Pizza",
+      "section_id": "1",
+      "chunk_text": "Pizza — Eine Pizza (Aussprache [ˈpɪtsa], italienisch [ˈpitːsa], deutscher Plural: die Pizzas oder die Pizzen ) ist ein vor dem Backen würzig belegtes Fladenbrot aus einfachem Hefeteig aus der italienischen Küche. Die heutige international verbreitete Variante mit Tomatensauce und Käse als Basis stammt vermutlich aus Neapel. 2017 wurde die neapolitanische Kunst des Pizzabäckers (Art of Neapolitan ‘Pizzaiuolo’) in die UNESCO-Liste des immateriellen Kulturerbes der Menschheit aufgenommen. Neben Spaghetti ist die Pizza heute das bekannteste italienische Nationalgericht; sie wird weltweit angeboten. Margherita"
+    },
+    {
+      "id": "pizza-c002",
+      "doc": "Pizza.pdf",
+      "chunk_index": 2,
+      "page": 2,
+      "section": "Etymologie",
+      "section_id": "2",
+      "chunk_text": "Etymologie — Die Etymologie des Wortes Pizza ist nicht abschließend geklärt. Folgende Spuren wurden verfolgt: Das Wort stammt vom langobardischen pizzo oder bizzo, was dem deutschen „Bissen“ entspricht, vgl. auch Imbiss. Diese Herleitung wird heute vom Dizionario etimologico della lingua italiana von 1979/1988 (Neudruck 1999) als richtig vermutet. Das Wort stammt aus dem jüngeren orientalisch-semitischen Raum (z. B. dem Arabischen), ist von dort ins Griechische als Pita eingewandert und von da ins Italienische entlehnt worden. Das Wort ist noch älter und steht in Zusammenhang mit dem hebräischen Wort תפַ pat (Stück Brot; bibl. noch Brocken) oder Mittelägypt. bjt (Fladen). Ihm liegt das italienische pitta (lateinisch picta) zugrunde, diesem vermutlich wiederum das griechische pēktos (πηκτός; fest, geronnen). Das Wort stammt von einem anderen italienischen Wort, z. B. von pestare, „zerstampfen“, wie auch bei Pesto, vgl. lateinisch pista „gestampft, gestoßen“, pistor „Bäcker, Müller“. von pinza, einem Dialektwort, das immer noch in einigen italienischen Mundarten vorkommt und sich vom lateinischen pinsere (zerstoßen) ableitet."
+    },
+    {
+      "id": "pizza-c003",
+      "doc": "Pizza.pdf",
+      "chunk_index": 3,
+      "page": 2,
+      "section": "Etymologie",
+      "section_id": "2",
+      "chunk_text": "Etymologie — Im Mittellateinischen wurde das Verb in der Bedeutung „backen“ gebraucht. Vgl. auch Italienisch pinza und Venezianisch pinsa. vom neapolitanischen piceà bzw. pizzà für „zupfen“ abgeleitet, vergleiche kalabrisch pitta und mittellateinisch pecia („Stück“, „Teil“, „Fetzen“)."
+    },
+    {
+      "id": "pizza-c004",
+      "doc": "Pizza.pdf",
+      "chunk_index": 4,
+      "page": 2,
+      "section": "Geschichte 18. Jahrhundert",
+      "section_id": "3",
+      "chunk_text": "Geschichte 18. Jahrhundert — Die nur mit Olivenöl beträufelte, mit Tomatenscheiben und Oregano oder Basilikum belegte Pizza ist seit etwa der Mitte des 18. Jahrhunderts nachgewiesen, als die Tomate in Süditalien populär wurde. Der Name ist vermutlich älter – die apulische Pizza pugliese oder die kalabresische Pitta inchiusa zum Beispiel enthalten neben Hefeteig nur seit alters bekannte Zutaten wie Olivenöl, Zwiebeln, Salz oder Schweineschmalz. Der ligurischen Focaccia ähnliche Fladenbrote sind seit der Antike verbreitet. Da Pizza bei sehr hoher Temperatur gebacken werden sollte, was in den wenigsten Haushalten möglich war, wurde sie anfangs vorbereitet und ungebacken zum örtlichen Bäcker gebracht, bis ein eigener Handwerkszweig der Pizzamacher, der Pizzaiolo, entstand, der den Teig selbst herstellte und belegte."
+    },
+    {
+      "id": "pizza-c005",
+      "doc": "Pizza.pdf",
+      "chunk_index": 5,
+      "page": 2,
+      "section": "19. Jahrhundert / Pizza Margherita",
+      "section_id": "4",
+      "chunk_text": "19. Jahrhundert / Pizza Margherita — Eine Pizza, die heutigen Vorstellungen entspricht, soll erstmals am 11. Juni 1889 in Neapel vom Pizzaiolo Raffaele Esposito von der Pizzeria Brandi hergestellt worden sein, der beauftragt worden sein soll, König Umberto I. und seiner Frau Margherita eine Pizza zu servieren. Diese soll er patriotisch mit Zutaten in den italienischen Nationalfarben belegt haben: Basilikum (grün), Mozzarella (weiß) und Tomaten (rot). Diese ist bis heute unter dem Namen Pizza Margherita eine der bekanntesten und verbreitetsten Pizzavarianten. Die Legende dazu ist jedoch mittlerweile von Historikern widerlegt worden. Die Königin ließ sich bereits vorher von jeweils anderen Pizzabäckern Pizza in den Palast bringen. 1880 erschien hierüber ein Zeitungsartikel auch in der Washington Post: Aus einer Liste mit 35 verschiedenen Pizzabelägen wählte sie acht Sorten aus, die dann für sie gebacken wurden. Esposito war lediglich der einzige, der die Empfangsbestätigung des Hofes aufbewahrte."
+    },
+    {
+      "id": "pizza-c006",
+      "doc": "Pizza.pdf",
+      "chunk_index": 6,
+      "page": 3,
+      "section": "20. Jahrhundert",
+      "section_id": "5",
+      "chunk_text": "20. Jahrhundert — Durch italienische Auswanderer verbreitete sich die Pizza gegen Ende des 19. Jahrhunderts auch in den USA. Im April 1937 gründete Curzio Bertozzi das Restaurant International in Zürich. Spätestens ab 1944 war es für seine Pizza Napoletana bekannt. Im Oktober 1937 wurde in Frankfurt am Main erstmals eine Pizza im Rahmen der 7. Internationalen Kochkunst-Ausstellung der Messe Frankfurt zubereitet. Nach dem Zweiten Weltkrieg wurde Pizza auch in Europa außerhalb Italiens bekannter. Die erste Pizzeria in Deutschland wurde von Nicolino di Camillo (1921–2015) im März 1952 in Würzburg unter dem Namen Sabbie di Capri eröffnet. Von hier aus begann der Siegeszug der Pizza in Deutschland. Die erste Pizzeria in Wien wurde 1975 von Pasquale Tavella eröffnet."
+    },
+    {
+      "id": "pizza-c007",
+      "doc": "Pizza.pdf",
+      "chunk_index": 7,
+      "page": 3,
+      "section": "Zubereitung",
+      "section_id": "6",
+      "chunk_text": "Zubereitung — Zur Zubereitung wird zuerst ein einfacher Hefeteig aus Mehl, Wasser, wenig Hefe, Salz und eventuell etwas Olivenöl Schild vor dem Restaurant Brandi in hergestellt, gründlich durchgeknetet und nach einer Gehzeit Neapel von mindestens einer Stunde bei Zimmertemperatur dünn ausgerollt oder mit den bemehlten Händen dünn ausgezogen. Geübte Pizzabäcker ziehen den Teig über den Handrücken und weiten ihn durch Kreisenlassen in der Luft. Dann wird der Teig mit den Zutaten je nach Rezept nicht zu üppig belegt, meist mit passierten Dosentomaten oder Salsa pizzaiola, einer vorher gekochten sämigen Tomatensauce. Anschließend wird der Teig mit Käse (klassisch ist Mozzarella) und den übrigen Zutaten belegt und zum Abschluss mit etwas Olivenöl beträufelt. Schließlich wird die Pizza bei einer möglichst hohen Temperatur von 400 bis 500 °C für wenige Minuten kurz gebacken. Der traditionelle Kuppelofen ist gemauert, und die Hitze wird über ein Holzfeuer direkt im Backraum erzeugt. Moderne Pizzaöfen werden oft mit Gas oder Strom beheizt."
+    },
+    {
+      "id": "pizza-c008",
+      "doc": "Pizza.pdf",
+      "chunk_index": 8,
+      "page": 4,
+      "section": "Arten Pizza Napoletana",
+      "section_id": "7",
+      "chunk_text": "Arten Pizza Napoletana — → Hauptartikel: Neapolitanische Pizza Als Reaktion auf die Verbreitung von Fast-Food-Pizza und Tiefkühlpizza wurde 1984 in Neapel mit Unterstützung der Region Kampanien die Associazione Verace Pizza Napoletana (AVPN) gegründet, die sich die Wahrung der Tradition der Pizza Napoletana zur Aufgabe gestellt hat. Ihre Mitglieder, Pizzerien auf der ganzen Welt, dürfen ihre Pizza als Verace Pizza Napoletana (echte neapolitanische Pizza) bezeichnen. Die traditionelle Herstellungsweise und die Verwendung der korrekten Zutaten wird regelmäßig kontrolliert. Am 9. Februar 2005 wurde die Pizza Napoletana als Warenzeichen innerhalb der Europäischen Union eingetragen und die zugelassenen Zutaten festgelegt. Die Herstellung einer verace Pizza Napoletana artigianale (echte handgemachte neapolitanische Pizza) als specialità tradizionale garantita (STG, garantiert traditionelle Spezialität) wird in der italienischen Norm UNI 10791:98 und der EU-Verordnung 97/2010 festgeschrieben. Seit 5. Februar 2010 ist die traditionelle Zusammensetzung oder das traditionelle Herstellungsverfahren des Produktes als garantiert traditionelle Spezialität (g. t. S., engl. TSG) geschützt."
+    },
+    {
+      "id": "pizza-c009",
+      "doc": "Pizza.pdf",
+      "chunk_index": 9,
+      "page": 4,
+      "section": "Arten Pizza Napoletana",
+      "section_id": "7",
+      "chunk_text": "Arten Pizza Napoletana — Die Pizza Napoletana besteht danach aus eines amerikanischen Flugzeugträgers folgenden Grundstoffen: Weichweizenmehl, Bierhefe, (2006). natürliches Trinkwasser, geschälte Tomaten und/oder kleine Frischtomaten (pomodorini), Meersalz oder Kochsalz und natives Olivenöl extra. Weitere Zutaten, die verwendet werden können, sind Knoblauch und Oregano, frisches Basilikum und Mozzarella di Bufala Campana g.U. oder Mozzarella g. t. S. Das Backen erfolgt ausschließlich in Holzöfen, in denen eine für die Zubereitung wesentliche Backtemperatur von 485 °C erreicht wird. Die Garzeit darf 90 Sekunden nicht überschreiten. Typisch für die Pizza Napoletana ist auch der etwas dickere Rand mit „Leopardenmuster“. Sie wird in zwei Varianten hergestellt: Pizza Marinara, mit Tomaten, Knoblauch, Olivenöl und Oregano Pizza Margherita, mit Tomaten, Mozzarella (aus Büffel- oder Kuhmilch, Fior di latte), Olivenöl und Basilikum. Klassische Varianten der neapolitanischen Pizza, die nicht unbedingt Tomaten und Käse enthalten müssen, sind:"
+    },
+    {
+      "id": "pizza-c010",
+      "doc": "Pizza.pdf",
+      "chunk_index": 10,
+      "page": 5,
+      "section": "Arten Pizza Napoletana",
+      "section_id": "7",
+      "chunk_text": "Arten Pizza Napoletana — Pizza aglio e olio, mit Knoblauch, Olivenöl und Oregano Pizza con cozze, mit Miesmuscheln, Knoblauch, Olivenöl und Petersilie Pizza alle vongole, mit Venusmuscheln, Tomaten, Knoblauch, Olivenöl, Petersilie und Oregano Margherita bianca, eine Margherita ohne Tomaten 2020 entspann sich ein Streit zwischen der Associazione Verace Pizza Napoletana (AVPN) und der 1998 gegründeten Vereinigung der neapolitanischen Pizzabäcker Associazione Pizzaiuoli Napoletani (APN) über die Verwendung von Elektroöfen. Die AVPN hatte mit dem von dem neapolitanischen Ingenieur Giuseppe Carlo Russo Krauss entwickelten Scugnizzonapoletano erstmals einen Elektroofen für die Pizzaherstellung akzeptiert. Das Beharren auf Holzöfen sei nicht zeitgemäß, da diese in vielen Ländern nicht akzeptiert seien, was in 50 Jahren zum Aussterben der Pizza führen könne. Außerdem habe die UNESCO nicht den Holzofen, sondern die „Kunst des ‘Pizzaiuolo’“ in ihre Liste aufgenommen. Die APN kämpft dagegen an und betont, die einzigartige Tradition des Holzofens nicht wirtschaftlichen Überlegungen opfern zu wollen. Zudem sei mit der Verwendung von Elektroöfen die EU-Eintragung als Specialità tradizionale garantita (STG) gefährdet."
+    },
+    {
+      "id": "pizza-c011",
+      "doc": "Pizza.pdf",
+      "chunk_index": 11,
+      "page": 5,
+      "section": "Weitere Pizzatypen mit regionaler Tradition",
+      "section_id": "8",
+      "chunk_text": "Weitere Pizzatypen mit regionaler Tradition — Außer der Pizza Napoletana gibt es in Italien noch weitere Pizzatypen mit regionaler Tradition. Dazu gehört die Pizza Romana, eine sehr dünne und knusprige Pizza, die meist auf dem Blech gebacken wird. Die Pizza Genovese dagegen ist eine dickere Pizza, die eher an die urtypische Form des Fladenbrotes erinnert und eine Weiterentwicklung der Focaccia ist. Die Pizza cilentana stammt aus dem Cilento und wird im Gegensatz zur neapolitanischen Pizza aus einer Mischung aus Weich- und Hartweizen gebacken. Statt reiner Tomatensauce wird ein Soffritto aus Olivenöl, Zwiebeln und Tomaten aufgetragen, statt Mozzarella wird Ziegenkäse oder Cacioricotta verwendet. Als weitere Beläge können regionale Wurstspezialitäten wie Noglia Verwendung finden."
+    },
+    {
+      "id": "pizza-c012",
+      "doc": "Pizza.pdf",
+      "chunk_index": 12,
+      "page": 5,
+      "section": "Pizza-Varianten",
+      "section_id": "9",
+      "chunk_text": "Pizza-Varianten — Pizzasorten nach der Art des Belags sind z. B. Pizza capricciosa, Pizza alle quattro stagioni sowie Pizzen, die nach den Zutaten benannt wurden, mit denen sie belegt sind: Pizza al salame (mit Salami), Pizza ai funghi (mit Champignons), Pizza al prosciutto (mit Schinken), Pizza al tonno (mit Thunfisch) usw. Pizza quattro formaggi ist mit vier Sorten Käse (zum Beispiel Mozzarella, Parmesan, Gorgonzola und Pecorino), Pizza frutti di mare ist mit Meeresfrüchten belegt. Verbreitet in Italien ist auch die Pizza bianca (weiße Pizza), eine Pizzavariation, die ohne Tomatensoße zubereitet wird. Eine Calzone (Italienisch für „Hose“) ist eine Pizza, bei der der Teigfladen vor dem Backen über dem Belag zusammengeklappt wird. Die traditionelle Füllung besteht aus Ricotta, rohem Schinken, Pilzen, Mozzarella, Parmesan und Oregano. Ursprünglich wurde die Calzone nicht im Ofen, sondern in einer Pfanne in Schmalz oder Öl gebacken, wie es als Pizza fritta in Neapel üblich ist. In ganz Italien verbreitet ist die Pizza al taglio („Pizza am Stück“), die auf einem rechteckigen Blech gebacken und in kleineren Stücken verkauft wird. Angeboten wird sie häufig nicht nur in Pizzerien, sondern auch in Bäckereien."
+    },
+    {
+      "id": "pizza-c013",
+      "doc": "Pizza.pdf",
+      "chunk_index": 13,
+      "page": 6,
+      "section": "US-amerikanische Pizza",
+      "section_id": "10",
+      "chunk_text": "US-amerikanische Pizza — In den USA sind zwei Typen weit verbreitet, „Chicago-style-“ und „New York-style“-Pizza. Während die New Yorker Variante mit ihrem sehr dünnen Boden der italienischen Variante ähnelt, ist die Variante aus Chicago das Gegenteil: Der Teig bildet eine Schüsselform, wird mit Mozzarellascheiben ausgelegt und mit weiteren Zutaten gefüllt. Zum Schluss wird das Ganze von oben mit zerkleinerten Tomaten bestrichen und mit Parmesan und Oregano bestreut. Auch die Pizza Hawaii mit Kochschinken und Ananas ist nordamerikanischen Ursprungs. In Deutschland ist eine weitere Variante als „American Pizza“ populär, die sich vor allem durch einen dicken, luftigen Boden auszeichnet und unter anderem durch die Restaurantkette Pizza Hut bekannt wurde."
+    },
+    {
+      "id": "pizza-c014",
+      "doc": "Pizza.pdf",
+      "chunk_index": 14,
+      "page": 6,
+      "section": "Koschere Pizza",
+      "section_id": "11",
+      "chunk_text": "Koschere Pizza — Eine sogenannte Pessach-Pizza wird aus Matzen zubereitet. Matzen ziehen sich in einer Mischung aus verquirlten Eiern mit Milch, Salz und Pfeffer voll. Ein ausgekochtes Blech mit hohem Rand wird mit Margarine oder Öl eingefettet, hierin die vorbereiteten Matzen eingelegt, Tomatensoße darüber gegossen und mit beliebigen Kräutern und geriebenem „gelbem Käse“ (Hart- oder halbfester Käse gevina tzehuba ) bestreut. Danach in einem vorgeheizten Ofen gebacken. Koschere Pizzen sind an Pessach besonders beliebt, da der amerikanische Hartkäse, wie zum Beispiel Cheddar, kaum jemals ein halbes Jahr oder gar länger gereift ist, und somit anschließend gleich Fleisch gegessen werden darf. Anhand des Datums auf der Käseverpackung kann man erkennen, wie alt der Käse ist, und entscheiden, ob man sechs Stunden warten muss oder nicht. Fleisch darf nach dem Konsum von Milchprodukten gegessen werden, mit Ausnahme von Hartkäse, der länger als 6 Monate gereift ist."
+    },
+    {
+      "id": "pizza-c015",
+      "doc": "Pizza.pdf",
+      "chunk_index": 15,
+      "page": 7,
+      "section": "Pizza in der DDR",
+      "section_id": "12",
+      "chunk_text": "Pizza in der DDR — Die Pizza war auch in der DDR als Spezialität beliebt. Bereits 1966 wurden in einigen Tageszeitungen verschiedene Pizzarezepte zum Nachbacken veröffentlicht. Besonders in Ost-Berlin und den Bezirksstädten gab es ab den 1970er Jahren einige Einrichtungen, die Pizza im Angebot hatten. So zum Beispiel eine HO-Eisdiele in Berlin-Weißensee, die ab 1975 selbstgebackene Pizza verkaufte. Zutaten waren damals nach eigenen Angaben: ungesüßter Hefeteig, Salami, roter und grüner Paprika, saure Gurken, Tomatenketchup, verschiedene Gewürze, und alles wurde mit Käse überbacken. Auf dem Weihnachtsmarkt in Ost-Berlin am Alexanderplatz wurde ab 1976 frisch zubereitete Pizza angeboten. Im September 1979 begann im Kombinat Bako-Berlin, Betriebsteil VEB Libelle, die Pizzaproduktion in fünf Sorten. Zunächst wurden damit die Kaufhallen von Konsum und HO in Ost-Berlin beliefert. Pizzateig wurde dort jedoch auch von der Gastronomie bezogen. Die Pizzas waren dabei je nach Sorte mit Fleisch, Wurst, Äpfeln, Tomaten, Paprika, Eiern, Käse oder auch Nüssen belegt. Eine Anlage zur Herstellung von Tiefkühlpizza ging im April 1981 bei VEB Bako-Berlin in Betrieb. Es wurden stündlich ca."
+    },
+    {
+      "id": "pizza-c016",
+      "doc": "Pizza.pdf",
+      "chunk_index": 16,
+      "page": 7,
+      "section": "Pizza in der DDR",
+      "section_id": "12",
+      "chunk_text": "Pizza in der DDR — 600 Pizzas gebacken, gekühlt, gefrostet und danach tiefgekühlt in Folie und Umkartons verpackt. Es wurden dort ab 1980 pro Jahr 1300 Tonnen Pizza hergestellt. Anfang der 1980er Jahre boten dann auch einige Gaststätten und Konditoreien frisch zubereitete Pizza an. Bekannt war eine Konditorei in Berlin-Weißensee, die eine runde Pizza verkaufte. Diese Kreation bestand aus einer würzigen Tomatensoße und war belegt mit Zervelatwurst, Zwiebeln, verschiedenen Gewürzen, Tomaten und Käse. Bekannt war auch die Gaststätte Vierlanden in Berlin-Marzahn, die eine eigene Pizzeria betrieb. 1987 kam zur Jubiläumsfeier „750 Jahre Berlin“ die Jubiläumspizza Margarethe in den Handel. Ab 1988 stellte der VEB Libelle in Berlin-Biesdorf für den Handel Tiefkühlpizza in zehn verschiedenen Sorten her. In der DDR-Gastronomie wurde zudem eine eigene Pizza-Variation kreiert. Das Gericht erhielt den Namen Krusta, wurde auf einem Backblech gebacken und in rechteckige, etwa handgroße Stücke geschnitten. Sie wurde von einem Kollektiv junger Köche entwickelt und bei der Messe der Meister von Morgen im November 1976 in Leipzig einem breiten Publikum vorgestellt."
+    },
+    {
+      "id": "pizza-c017",
+      "doc": "Pizza.pdf",
+      "chunk_index": 17,
+      "page": 7,
+      "section": "Pizza in der DDR",
+      "section_id": "12",
+      "chunk_text": "Pizza in der DDR — Die Krusta sollte dabei jedoch nicht die Pizza selbst oder sogar ihren Namen ersetzen. Der Krustateig war dunkler, da er neben Weizen- auch Roggenmehl enthielt. Als Belag wurden Produkte genutzt, die in der DDR ganzjährig in ausreichender Menge verfügbar waren: Salami, Speck, Bierschinken, Eier, Hackfleisch, Hähnchenfleisch, Fisch, Letscho und Sauerkraut, aber auch Anchovis und kubanische Ananas. Die Krusta wurde in einer eigens dafür gegründeten Schnellimbiss-Gaststätte namens Krusta-Stube serviert. Ab 1986 gab es eine Imbisskette namens Pizza-Büfett."
+    },
+    {
+      "id": "pizza-c018",
+      "doc": "Pizza.pdf",
+      "chunk_index": 18,
+      "page": 8,
+      "section": "Tiefkühlpizza",
+      "section_id": "13",
+      "chunk_text": "Tiefkühlpizza — Vorgebackene und tiefgekühlte Pizza gehört zu den meistverkauften Fertiggerichten. In den 1960er Jahren in den Vereinigten Staaten entwickelt, gelangte sie über Italien nach Europa. 1966 wurde eine „Minipizza“ samt dazugehörigem Aufbackofen vom italienischen Speiseeishersteller Motta auf deutschen Messen vorgestellt. Die Herstellung von Tiefkühlpizza weicht in der Reihenfolge von der traditionellen Zubereitung ab. Die ausgestanzten Teigfladen werden zuerst mit Tomatensauce bestrichen und vorgebacken, dann nach dem Abkühlen mit den weiteren Zutaten belegt und schließlich schockgefroren. Der Teig kann neben Weizenmehl und Hefe auch modifizierte Stärke und zusätzliche Triebmittel wie Natriumhydrogencarbonat enthalten, was das Backen ohne vorheriges langsames Auftauen ermöglicht. Sowohl beim Vorbacken als auch beim Fertigbacken im Haushaltsbackofen liegen die Temperaturen weit unter denen eines Pizzaofens. Tiefkühlpizza in großen Mengen stellte ab 1968 der Backwarenproduzent Romano Freddi aus Mantua her. Er entwickelte die Grundlagen zum Formen des Teigs, des Belegens und des Vorbackens für die industrielle Großproduktion. Neben der italienischen Firma Esselunga belieferte er auch Dr."
+    },
+    {
+      "id": "pizza-c019",
+      "doc": "Pizza.pdf",
+      "chunk_index": 19,
+      "page": 8,
+      "section": "Tiefkühlpizza",
+      "section_id": "13",
+      "chunk_text": "Tiefkühlpizza — Oetker, die Firma, die als erste die Tiefkühlpizza auf den deutschen Markt brachte. Ebenfalls 1968 folgten die ersten Hersteller in der Schweiz, 1970 die ersten in Deutschland, darunter auch Wagner, heute europaweit einer der Marktführer von Tiefkühlpizza mit einem Anteil von über 30 % in Deutschland sowie 26 % in Europa. Von Wagner wurde auch 1976 erstmals die tiefgekühlte „Steinofenpizza“ auf den Markt gebracht. Größter Hersteller in Europa ist die Freiberger Lebensmittel GmbH, die 1976 aus der Pizza- Versandbäckerei entstand. Der Verkauf von Tiefkühlpizza stieg in Deutschland rasch an: 1973 wurden 2.800 Tonnen hergestellt, 2020 waren es 277.000 Tonnen. Die absatzstärksten Sorten von Dr. Oetker waren 2017 nach Eigenangaben Salami, Speciale (Salami, Schinken, Champignons), Thunfisch, Hawaii (Schinken, Ananas) und Margherita. Dabei gibt es neben fertigbelegten Pizzen auch Produkte, deren Teig nicht belegt oder vorgebacken ist, sondern erst im Backofen des Endverbrauchers aufbäckt. Für Thunfisch-Pizza wird dabei in der Regel kein echter Thunfisch genutzt, sondern der nicht bedrohte echte Bonito (Katsuwonus pelamis), der nicht der Gattung der Thunfische (Thunnus) angehört."
+    },
+    {
+      "id": "pizza-c020",
+      "doc": "Pizza.pdf",
+      "chunk_index": 20,
+      "page": 8,
+      "section": "Tiefkühlpizza",
+      "section_id": "13",
+      "chunk_text": "Tiefkühlpizza — Die Geschäftsführerin des Deutschen Tiefkühlinstituts, Sabine Eichner, ordnet die Tiefkühlpizza als „Lifestyle-Produkt“ ein. Von Januar bis Juni 2021 wurde mit Tiefkühlpizzen ein Umsatz von 1,3 Milliarden Euro erwirtschaftet. Davon wurden mehr als eine Milliarde Euro mit Markenprodukten umgesetzt. Als weitere Convenience-Food-Form neben der Tiefkühlpizza bietet der Einzelhandel Pizza-Kits im Kühlregal an. Sie enthalten den Teig meist bereits aus- und auf Backpapier aufgerollt, der dann mit der ebenfalls enthaltenen Tomatensoße und separat zu erwerbenden Zutaten belegt werden kann."
+    },
+    {
+      "id": "rotkaeppchen-c001",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 1,
+      "page": 1,
+      "section": "Rotkäppchen",
+      "section_id": "1",
+      "chunk_text": "Rotkäppchen — Rotkäppchen ist ein Märchen. Es steht in den Kinder- und Hausmärchen der Brüder Grimm als Rothkäppchen an Stelle 26 (KHM 26) und geht durch mündliche Weitergabe über Johanna und Marie Hassenpflug auf Charles Perraults Le Petit Chaperon rouge in Contes de ma Mère l’Oye (1695/1697) zurück. Ludwig Bechstein übernahm das Märchen 1853 von den Brüdern Grimm in sein Deutsches Märchenbuch als Das Rotkäppchen (Nr. 9). Andere Titel sind Rotkäppchen und der (böse) Wolf, im österreichischen Burgenland und Ungarn auch Piroschka (von ungarisch piros: rot). Als europäisches Märchen ist es als Typ ATU 333 eingeordnet."
+    },
+    {
+      "id": "rotkaeppchen-c002",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 2,
+      "page": 2,
+      "section": "Überlieferung",
+      "section_id": "2",
+      "chunk_text": "Überlieferung — Die beiden ersten literarischen Rotkäppchenversionen stammen von Charles Perrault aus den Jahren 1695 (Perrault’s Tales of the Mother Goose, The Dedication Manuscript of 1695, Hrsg. Jacques Barchilon, 2 Bände, New York 1956, The Pierpont Morgan Library) und 1697 (Contes de Perrault, Paris 1697, Faksimile-Druck, Hrsg. Jacques Barchilon, Genf 1980). Die Brüder Grimm veröffentlichten die Geschichte im ersten Band ihrer Kinder- und Hausmärchen von 1812 unter der Nummer 26. Rotkäppchen gehört zu den am häufigsten Rotkäppchen pflückt Blumen, wie der bearbeiteten, interpretierten und parodierten Märchen. Wolf ihm empfohlen; Illustration von Carl"
+    },
+    {
+      "id": "rotkaeppchen-c003",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 3,
+      "page": 2,
+      "section": "Inhalt",
+      "section_id": "3",
+      "chunk_text": "Inhalt — Ein kleines Mädchen, dem seine Großmutter einst eine rote Kappe geschenkt hatte, daher Rotkäppchen genannt, wird von der Mutter zu der in einem Haus im Wald wohnenden, bettlägerig kranken Großmutter mit einem Korb mit Leckereien (Kuchen und Wein) geschickt. Die Mutter warnt Rotkäppchen eindringlich, es solle nicht vom Weg abgehen. Im Wald lässt es sich auf ein Gespräch mit einem Wolf ein. Dieser horcht Rotkäppchen aus und macht es auf die schönen Blumen auf einer nahen Wiese aufmerksam, worauf Rotkäppchen beschließt, noch einen Blumenstrauß zu pflücken, der Warnung der Mutter zum Trotz. Der Wolf eilt geradewegs zur Großmutter und verschlingt sie. Er legt sich in deren Nachthemd in ihr Bett und wartet auf Rotkäppchen. Bald darauf erreicht Rotkäppchen das Haus, tritt ein, und begibt sich in (bei Perrault) bzw. an (bei den Brüdern Grimm) Großmutters Bett. Dort wundert sich Rotkäppchen über die Gestalt seiner Großmutter, erkennt aber den Wolf nicht, bevor es ebenfalls verschlungen wird. Bei Perrault endet das Märchen hier. Großmutter und Rotkäppchen werden bei den Brüdern Grimm vom Jäger aus dem Bauch des schlafenden Wolfes befreit."
+    },
+    {
+      "id": "rotkaeppchen-c004",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 4,
+      "page": 2,
+      "section": "Inhalt",
+      "section_id": "3",
+      "chunk_text": "Inhalt — Dem Wolf werden stattdessen Steine in den Bauch gefüllt. Wegen des Gewichts der Steine kann der Wolf nicht fliehen und stirbt. In einer italienischen Version, Die falsche Großmutter, befreit sich Rotkäppchen durch seine eigene Schlauheit und flieht. Der Wolf stirbt anschließend."
+    },
+    {
+      "id": "rotkaeppchen-c005",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 5,
+      "page": 3,
+      "section": "Legenden zu Rotkäppchens Tracht",
+      "section_id": "4",
+      "chunk_text": "Legenden zu Rotkäppchens Tracht — Die beiden ersten Ausgaben der Märchensammlung hatten noch keine Abbildungen, erst für die Kleine Ausgabe des Märchenbuches hat 1825 ein weiterer der Brüder Grimm – Ludwig Emil Grimm – sieben Kupferstiche beigesteuert. Während seiner Aufenthalte in der Schwalm schuf Ludwig Emil viele Trachtendarstellungen. In der Heimat der Brüder Grimm war es vor allem der Marburger „Märchenillustrator“ Otto Ubbelohde (1867–1922), der den Grimmschen Märchen eine deutlich hessische Gestalt verlieh, als er in der Schwalm und entlang der Lahn neben konkreten Bildern von Landschaften und Bauwerken auch die hessische Tracht vielfach motivisch in seinen Zeichnungen verwandte. Beispielsweise erscheinen Schneeweißchen und Rosenrot in der Kleidung junger Schwälmerinnen, Hänsel und Gretel finden Zuckergebäck an einem hessischen Fachwerkhaus oder Rapunzel lässt ihr Haar an einem Turmhaus im hessischen Amönau (bei Marburg) herunter. Obwohl Otto Ubbelohde das kleine Mädchen mit der roten Kappe nicht in der Schwälmer Tracht zeichnete, entwickelte sich seit dem ausgehenden 19. Jahrhundert der Begriff des Rotkäppchens aus dem Grimmschen Märchen in diese Richtung."
+    },
+    {
+      "id": "rotkaeppchen-c006",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 6,
+      "page": 3,
+      "section": "Legenden zu Rotkäppchens Tracht",
+      "section_id": "4",
+      "chunk_text": "Legenden zu Rotkäppchens Tracht — Der Wolf späht zum Fenster an Rotkäppchen wird heute in der Schwalm touristisch Großmutters Haus hinein; Illustration von erfolgreich vermarktet. Die Zeichnungen von Gerhardt von Reutern (1794–1865) und Ludwig Emil Grimm (1790–1863) aus den 1820er Jahren liegen als früheste künstlerische Zeugnisse vor, ihre trachtentragenden Kinder haben einen wesentlichen Anteil an dem zum biedermeierlichen Idyll stilisierten Schwälmer Volksleben. Später erschienen Schwälmer Kinder auf Gemälden der Willingshäuser Malerkolonie als Märchenillustrationen, was Rotkäppchen in Schwälmer Tracht zum touristischen und folkloristischen Emblem Hessens machte, Hessen selbst zum Rotkäppchenland. Neben der hessischen Schwalm wurden noch Sachsen- Rotkäppchen wundert sich über Altenburg und das württembergische Betzingen mit deren Großmutters Aussehen (Illustration von Knaben- und Mädchentrachten zum Inbegriff dieses Genres. Auch das märkische Wiepersdorf meldete Anspruch auf Rotkäppchens Tracht; Ludwig Emil Grimm soll für die Kleine Ausgabe auf eine ihrer Kindertrachten zurückgegriffen haben, mit typischem weißen Hemd mit schwarzem Mieder, rotem Rock und weißer Schürze, als er Achim von Arnim besuchte."
+    },
+    {
+      "id": "rotkaeppchen-c007",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 7,
+      "page": 4,
+      "section": "Interpretation",
+      "section_id": "5",
+      "chunk_text": "Interpretation — Das Märchen vom Rotkäppchen und dem bösen Wolf kann so interpretiert werden, dass es junge Mädchen vor Übergriffen in dessen Bauch eingenäht, gewalttätiger Männer warnen soll. Die Moral am Ende des Märchens in der Fassung von Perrault lautet: „Kinder, insbesondere attraktive, wohlerzogene junge Damen, sollten niemals mit Fremden reden, da sie in diesem Fall sehr wohl die Mahlzeit für einen Wolf abgeben könnten. Ich sage „Wolf“, aber es gibt da verschiedene Arten von Wölfen. Da gibt es solche, die auf charmante, ruhige, höfliche, bescheidene, gefällige und herzliche Art jungen Frauen zu Hause und auf der Straße hinterherlaufen. Und unglückseligerweise sind es gerade diese Wölfe, welche die gefährlichsten von allen sind.“ – PERRAULT Nach dem Psychoanalytiker Bruno Bettelheim geht es in diesem Märchen um den Widerspruch zwischen Lust- und Realitätsprinzip. Rotkäppchen sei einem Kind gleich, das sich bereits mit Pubertätsproblemen herumschlägt, aber die ödipalen Konflikte nicht bewältigt hat. Es benutzt seine Sinne. Damit entsteht das Risiko, verführt zu werden."
+    },
+    {
+      "id": "rotkaeppchen-c008",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 8,
+      "page": 4,
+      "section": "Interpretation",
+      "section_id": "5",
+      "chunk_text": "Interpretation — Anders als bei Hänsel und Gretel, wo ebenfalls Haus und Waldhaus identisch sind, sind Mutter und Großmutter hier zur Bedeutungslosigkeit zusammengeschrumpft, dafür das männliche Prinzip in Wolf und Jäger gespalten. Für den Psychiater Wolfdietrich Siegmund ermutigt das Märchen zum Durchhalten, wo man sich nicht selbst befreien kann, obwohl man nicht schuld ist. Das sei für depressive Menschen wichtig. Fragwürdig sei, wenn Rotkäppchen in einer modernen Fassung ein Messer dabei hat und von innen den Bauch aufschneidet. Homöopathen verglichen das Märchen mit den Arzneimitteln Belladonna, Lycopodium, Drosera und Tuberculinum. Der Neurologe Manfred Spitzer schrieb 2014, Rotkäppchen bleibe gesünder als der gestresste Wolf, weil es den Kontrollverlust nicht so stark erlebe."
+    },
+    {
+      "id": "rotkaeppchen-c009",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 9,
+      "page": 5,
+      "section": "Rotkäppchen – Ursprünge und Entwicklung",
+      "section_id": "6",
+      "chunk_text": "Rotkäppchen – Ursprünge und Entwicklung — Das Märchen Rotkäppchen ist eine der bekanntesten Erzählungen Europas. Im Laufe der Zeit hat sich die Geschichte in verschiedener Hinsicht gewandelt, sie wurde immer wieder neu erzählt und neu interpretiert und legte immer wieder neue moralische Aussagen nahe. Auch wurde der Text mehrere Male komplett geändert, ausgeweitet, benutzt, parodiert und als satirische Maske für ganz andere Mitteilungsabsichten verwendet. Es entstanden Fassungen, die die Hauptfigur aus dem Wald in eine neue Umgebung versetzten und eine grundsätzlich neue Handlung erfanden. Im Folgenden soll die Entwicklung der Geschichte an einigen ausgewählten Beispielen deutlich gemacht werden."
+    },
+    {
+      "id": "rotkaeppchen-c010",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 10,
+      "page": 5,
+      "section": "Entstehung",
+      "section_id": "7",
+      "chunk_text": "Entstehung — Die Geschichte von dem kleinen, naiven Mädchen, das vom Wolf hinters Licht geführt und wie seine Großmutter schließlich gefressen wird, war ursprünglich eine Volksüberlieferung, die von Generation zu Generation mündlich weitergegeben wurde. Daher kann kein genauer Entstehungszeitpunkt bestimmt werden. Nach der Theorie des Italieners Anselmo Calvetti könnte die Geschichte in der Frühgeschichte der Menschheit erstmals erzählt worden sein. Sie könnte Erfahrungen verarbeiten, die die Menschen bei einem Initiationsritus zur Aufnahme in den Stammesclan machten. Hierbei wurden sie symbolisch von einem Ungeheuer (dem Totemtier des Clans) verschlungen, mussten körperliche Schmerzen und kannibalische Handlungen ertragen, um schließlich „wiedergeboren“ zu werden und damit als erwachsene Mitglieder des Stammes zu gelten. In einigen Rotkäppchen-Versionen taucht dieser Kannibalismus wieder auf. Das hungrige Rotkäppchen isst vom Fleisch der Großmutter und trinkt von ihrem Blut, ohne dies zu wissen. Die Verwendung des Wolfes als böse Macht könnte auf die Angst der Menschen vor Werwölfen zurückgehen. Besonders im 16. und 17."
+    },
+    {
+      "id": "rotkaeppchen-c011",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 11,
+      "page": 5,
+      "section": "Entstehung",
+      "section_id": "7",
+      "chunk_text": "Entstehung — Jahrhundert gab es, ähnlich wie die Hexenverfolgungen, zahlreiche Prozesse, in denen Männer beschuldigt wurden, Werwölfe zu sein und Kinder gefressen zu haben. Einzelne Motive der heute bekannten Fassung können weit zurückverfolgt werden. So gibt es beispielsweise den Mythos von Kronos, der seine eigenen Kinder verschlingt. Als Rhea nun mit Zeus schwanger und es leid war, dass ihr Mann ihre Kinder verschlingt, wickelte sie einen Stein in Windeln und gab diesen anstelle von Zeus Kronos. Später befreite Zeus seine Geschwister und den Stein aus dem Bauch seines Vaters. In der Spruch- und Erzählsammlung Fecunda ratis, die Egbert von Lüttich um 1023 verfasste, findet sich die Geschichte eines kleinen Mädchens, das in Gesellschaft von Wölfen aufgefunden wird und ein rotes Kleidungsstück besitzt. Die Brüder Grimm, die die einzelnen Texte ihrer Kinder- und Hausmärchen (zuerst 1812) über mehrere Jahrzehnte bis zur Ausgabe letzter Hand von 1857 immer wieder im Sinne der Anpassung an ihre eigenen Absichten wie an die Moden der Zeit änderten und ergänzten, manche sogar entfernten, schrieben auch von Anfang an ebenfalls laufend geänderte Kommentare zu den Märchen."
+    },
+    {
+      "id": "rotkaeppchen-c012",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 12,
+      "page": 5,
+      "section": "Entstehung",
+      "section_id": "7",
+      "chunk_text": "Entstehung — In der Urausgabe von 1812 geht Rotkäppchen allerdings noch fast ganz leer aus, es findet sich nur der Hinweis, man habe dieses Märchen „nirgends angetroffen, als bei Perrault (chaperon rouge) wonach Tiecks Bearbeitung“. Allerdings enthält der erste Band der Urfassung der KHM eine Variante des Märchens, die direkt auf die übliche Fassung des Märchens folgt. Darin lässt sich Rotkäppchen nicht vom Wolf ablenken, geht stracks weiter zur Großmutter und erzählt dieser von der Begegnung. Sie verschließen das Haus und öffnen dem Wolf nicht, als der anklopft. Der steigt am Ende aufs Dach, um das Mädchen abzupassen. Die Großmutter lässt nun Rotkäppchen das Wasser, worin sie am Vortag Würste gekocht hat, in einen Steintrog vor dem Haus schütten, der Duft steigt dem Wolf in die Nase, der vor Gier vom Dach rutscht und im Steintrog ertrinkt. Der Kommentar zum Märchen ändert sich in der zweiten Ausgabe von 1819. Nun erscheint folgende Referenz: „In einem schwedischen Volkslied (Folkvisor 3, 68, 69) Jungfrun i Blåskagen (Schwarzwald) [begegnet uns] eine verwandte Sage. Ein Mädchen soll zum Wachen bei einer Leiche über Feld."
+    },
+    {
+      "id": "rotkaeppchen-c013",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 13,
+      "page": 6,
+      "section": "Entstehung",
+      "section_id": "7",
+      "chunk_text": "Entstehung — Der Weg führt durch einen finstern Wald, da begegnet ihm der graue Wolf, ›ach lieber Wolf‹, spricht es, ›beiß mich nicht, ich geb dir mein seidengenähtes Hemd.‹ ›Dein seidengenähtes Hemd verlang ich nicht, dein junges Leben und Blut will ich haben‹. So bietet sie ihm ihre Silberschuhe, hernach die Goldkrone, aber vergebens. In der Noth klettert das Mädchen auf eine hohe Eiche: der Wolf untergräbt die Wurzel. Die Jungfrau in Todesangst thut einen schneidenden Schrei; ihr Geliebter hörts, sattelt, und reitet schnell wie ein Vogel, wie er zur Stelle kommt (liegt die Eiche umgestürzt, und) ist nur ein blutiger Arm des Mädchens übrig.“"
+    },
+    {
+      "id": "rotkaeppchen-c014",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 14,
+      "page": 6,
+      "section": "Charles Perraults petit chaperon rouge",
+      "section_id": "8",
+      "chunk_text": "Charles Perraults petit chaperon rouge — Eine der ältesten bekannten schriftlichen Fassungen stammt von dem Franzosen Charles Perrault und wurde 1697 unter dem Titel Le petit chaperon rouge veröffentlicht. Da die Erzählung für die Lektüre am französischen Hof von Versailles bestimmt war, verzichtete Perrault weitgehend auf Elemente, die als vulgär gelten könnten (z. B. Kannibalismus). Die Geschichte nimmt bei ihm kein gutes Ende: die Großmutter und das Rotkäppchen werden vom Wolf gefressen, ohne danach wieder gerettet zu werden. Perrault schreibt weniger ein Märchen als eine moralische Abschreckungsparabel. In seiner Version sind zahlreiche Anspielungen auf Sexualität zu finden (so legt sich Rotkäppchen auf dessen Aufforderung hin nackt zum Wolf ins Bett). Ans Ende ist zudem ein kleines Gedicht angehängt, das kleine Mädchen vor Sittenstrolchen warnt. Perrault hatte die Absicht, mit der Erzählung explizit Verhaltensmaßregeln festzulegen, und griff dabei zum Mittel der Abschreckung. Perraults Märchen wurde auch in andere Sprachen übersetzt, so ist es beispielsweise in England unter dem Titel Little Red Riding Hood bekannt. Robert Samber übersetzte Perraults Märchen 1729 ins Englische und veröffentlichte es im selben Jahr."
+    },
+    {
+      "id": "rotkaeppchen-c015",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 15,
+      "page": 6,
+      "section": "Charles Perraults petit chaperon rouge",
+      "section_id": "8",
+      "chunk_text": "Charles Perraults petit chaperon rouge — Ein glückliches Ende auch der Perrault-Fassung tritt allerdings erst, das Original verfälschend, in der ironischen Übersetzung der Perrault-Märchen ins Deutsche von Moritz Hartmann im Jahr 1867 auf; damals war das Happy End des Märchens schon seit über 50 Jahren Standard in den deutschsprachigen Ländern."
+    },
+    {
+      "id": "rotkaeppchen-c016",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 16,
+      "page": 6,
+      "section": "Erste deutsche Fassungen",
+      "section_id": "9",
+      "chunk_text": "Erste deutsche Fassungen — Die erste deutsche Übersetzung des französischen Le Petit Chaperon Rouge erschien 1760/61. Da die gehobenen Gesellschaftsschichten jedoch größtenteils der französischen Sprache mächtig waren, fand die Geschichte vermutlich schon vorher auch im deutschsprachigen Raum Verbreitung. Die Fassung, die 1812 im ersten Band der Kinder- und Hausmärchen von Jacob und Wilhelm Grimm erschien, hat ein gutes Ende, ein Märchenende. Ein Jäger rettet das Rotkäppchen und seine Großmutter aus dem Bauch des Wolfes und füllt diesen stattdessen mit Steinen, was zum Tod des Tieres führt. Dieses Ende ist einem weiteren Märchen entliehen, das die Brüder Grimm ebenfalls aufschrieben: Der Wolf und die sieben jungen Geißlein. Das Märchen Von dem Machandelboom enthält ein ähnliches Verschlingmotiv. In derselben Ausgabe veröffentlichten die Autoren noch eine Art Fortsetzung, in der das Mädchen erneut einen Wolf trifft. Diesmal beweist es, dass es aus dem vorherigen Erlebnis gelernt hat, und alarmiert die Großmutter. Mit vereinten Kräften gelingt es den beiden, das Tier zu überlisten, das schließlich, wie auch sein Vorgänger, stirbt."
+    },
+    {
+      "id": "rotkaeppchen-c017",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 17,
+      "page": 7,
+      "section": "Erste deutsche Fassungen",
+      "section_id": "9",
+      "chunk_text": "Erste deutsche Fassungen — Das Märchen der Brüder Grimm geht teilweise auf eine Nacherzählung von Johanna Hassenpflug (1791–1860), genannt „Jeanette“, zurück (die Fortsetzungsversion geht auf Marie Hassenpflug zurück). Ihre Erzählungen sind die Quellen für mehrere Märchen der Sammlung der Brüder. Außerdem orientierten sie sich an der erstmals 1800 erschienenen dramatischen Bearbeitung Tragödie vom Leben und Tod des kleinen Rothkäppchens von Ludwig Tieck, die auf der Grundlage von Perraults Geschichte entstanden war. Somit hat auch das Grimmsche Märchen indirekt Perrault als Vorlage. Allerdings reinigten die Brüder die ursprüngliche Fassung von ihrer Meinung nach zu grausamen, zu sexuellen und zu tragischen Komponenten und passten es so dem damaligen Zeitgeist oder dem Geschmack damaliger Buchkäufer an. Tiecks Bearbeitung des Rotkäppchen-Stoffes stammt aus einer Zeit großer Unruhen: Die französische Revolution wurde von vielen Intellektuellen im deutschsprachigen Raum begrüßt. Durch den Ersten Koalitionskrieg begann in vielen Regionen die Franzosenzeit."
+    },
+    {
+      "id": "rotkaeppchen-c018",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 18,
+      "page": 7,
+      "section": "Erste deutsche Fassungen",
+      "section_id": "9",
+      "chunk_text": "Erste deutsche Fassungen — Nach dem Machtantritt Napoleons wechselte die Begeisterung über die revolutionären Ideale aber bald zur großen Enttäuschung über die imperialen Bestrebungen des französischen Kaisers. Tieck – selbst zunächst Anhänger der Jakobiner – verarbeitete vermutlich die Enttäuschung über den Verrat der Revolution zur Errichtung des französischen Kaiserreichs in seinem literarischen Werk: so auch im Rotkäppchenmärchen."
+    },
+    {
+      "id": "rotkaeppchen-c019",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 19,
+      "page": 7,
+      "section": "19. Jahrhundert",
+      "section_id": "10",
+      "chunk_text": "19. Jahrhundert — Im weiteren Verlauf des 19. und am Anfang des 20. Jahrhunderts blieb das Märchen in seiner Struktur weitgehend unverändert, einige Autoren entfernten jedoch auch noch die wenigen übriggebliebenen Gewaltszenen (z. B. das Verschlingen des Rotkäppchens) und Stellen mit sexuellem Unterton, die sie als zu roh empfanden. Meist blieb Rotkäppchen in ihrer naiven und hilflosen Position und wurde vom männlichen Jäger gerettet, was das Frauenbild der Zeit widerspiegelt. In Deutschland wurde das Märchen im 19. Jahrhundert zunehmend niedlicher und christlicher, um es den Kindern zugänglicher zu machen. Die Brüder Grimm selbst überarbeiteten ihre eigenen Märchen mehrmals, bis der Wolf 1857 zum alten Sünder wurde. 1853 nahm Ludwig Bechstein Rotkäppchen in sein Deutsches Märchenbuch auf, wobei die Grimmsche Fassung auch hier als Vorlage diente. Er versuchte zwar, seine Version witziger und volkstümlicher zu gestalten, aber das verlor sich durch seinen gekünstelten Stil leicht im Kindischen. Bechstein trat zu keinem Zeitpunkt als Konkurrent der Märchenbrüder auf. Im März 1826 verfasste Eduard Mörike ein Gedicht namens Rotkäppchen und der Wolf."
+    },
+    {
+      "id": "rotkaeppchen-c020",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 20,
+      "page": 8,
+      "section": "19. Jahrhundert",
+      "section_id": "10",
+      "chunk_text": "19. Jahrhundert — Hier bereut der Wolf seine Tat und hofft, dass das tote Mädchen ihm eines Tages verzeihen kann. Weitere Versionen entstanden durch Gustav Holting (1840), der auch das Motiv des sündhaften Wolfes verwendet, Moritz Hartmann in seiner Übersetzung Perraults (1867), wo er den Schluss ändert, und Ernst Siewert (1880). Interessanterweise tauchen in den deutschen Bearbeitungen im Gegensatz zu den französischen Versionen selten erotische Elemente auf, stattdessen wurde viel Wert auf Ruhe und Ordnung gelegt. Alexander von Ungern-Sternberg dagegen setzte Rotkäppchen 1850 eher lustig um und parodierte biedermeierliches Benehmen. Anna Costenoble veröffentlichte 1907 das Buch Ein Frauenbrevier für männerfeindliche Stunden, in dem sie in einer Rotkäppchen-Parodie die lächerlichen Sitten der deutschen Oberschicht behandelt. In Frankreich entstand eine Vielzahl von Adaptionen, so zum Beispiel die Oper Le petit chaperon rouge mit der Musik von François-Adrien Boieldieu und dem Text von Marie E. G. M. Théaulon de Lambert. Hierbei handelt es sich um ein sehr sentimentales Musikstück, das in Frankreich und Deutschland, aber auch in England und Amerika Verbreitung fand."
+    },
+    {
+      "id": "rotkaeppchen-c021",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 21,
+      "page": 8,
+      "section": "19. Jahrhundert",
+      "section_id": "10",
+      "chunk_text": "19. Jahrhundert — Es hat jedoch nur am Rande mit Rotkäppchen zu tun. 1862 verfasste Alphonse Daudet mit Le Roman du chaperon-rouge ein Werk, in dem Rotkäppchen die spießbürgerlichen Normen der Gesellschaft ablehnt, so zum Symbol des Protests wird, aber doch schließlich sterben muss. Das Märchen war in dieser Zeit derart gut bekannt und gegenwärtig, dass es ein wichtiger Bestandteil der Kindeserziehung in allen sozialen Schichten war. Besonders der Aspekt des Gehorsams wurde in den zahlreichen Fassungen, Zeichnungen und Bilderbögen betont (Charles Marelle: Véritable Histoire du Petit Chaperon d’Or, Die wahre Geschichte vom Goldkäppchen, 1888). Eine weitere Version lieferte Pierre Cami 1914 mit seinem kurzen Stück Le petit chaperon vert (Das Grünkäppchen). Die Eltern von Grünkäppchen werden hier als absurde Figuren dargestellt, das Mädchen selber dagegen zeichnet sich durch Eigenständigkeit und Schlauheit aus. Es gelingt ihr, sich mithilfe von Wortspielen selbst zu retten, indem es nicht die in jenem berühmten Frage-Antwort-Dialog richtigen Fragen liefert („Ei Großmutter, was hast du für große Ohren“) und damit den Wolf so aus dem Konzept bringt, dass er schließlich das Haus mit den Worten verlässt:"
+    },
+    {
+      "id": "rotkaeppchen-c022",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 22,
+      "page": 8,
+      "section": "19. Jahrhundert",
+      "section_id": "10",
+      "chunk_text": "19. Jahrhundert — „Oh, wo sind nur die naiven Kinder von früher, die sich so leicht fressen ließen!“. Diese Art von Parodie etablierte sich besonders nach dem Ersten Weltkrieg, als auch die Rolle der Frau sich bedeutend änderte. Auch in englischer Sprache gab es zahlreiche Adaptionen, wovon einige wenige ebenfalls parodistischer Natur waren, so beispielsweise „The true historie of little red riding hood or the lamb in wolf’s clothing“ (1872) von Alfred Mills, der die Geschichte benutzte, um sich über die aktuelle Tagespolitik lustig zu machen. Schon 1890 wurde Rotkäppchen in der Werbung verwendet: Schultz and Company setzten sie in der STAR-Seife-Reklame ein. Hierbei gab es zwei Komponenten: „Moral I: Wenn du in dieser Welt willst sicher sein / vor Gefahr, Hader und Sorge, / gib acht, mit wem du dich lässt ein / und wie und wann und wo. Moral II: Und du solltest immer reinlich sein / und fröhlich, niemals Trübsal blasend, / um beides zu erreichen, mein Kind, musst du / immer unsere STAR-Seife nehmen“"
+    },
+    {
+      "id": "rotkaeppchen-c023",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 23,
+      "page": 9,
+      "section": "Vom naiven zum eigenständigen Rotkäppchen",
+      "section_id": "11",
+      "chunk_text": "Vom naiven zum eigenständigen Rotkäppchen — Im 20. Jahrhundert wurde Rotkäppchen zunehmend witziger, aufsässiger und auch realistischer umgesetzt. Hierbei ist bemerkenswert, dass viele Fassungen mit ihren ironischen Elementen primär für Erwachsene gedacht waren. 1923, in der Zeit der Weimarer Republik, einer Phase literarischer Experimentierfreudigkeit, auch in Bezug auf Märchen, entstand eine stark satirische Version, in der traditionelle Kindererziehung und Vorstellungen von Sexualität hinterfragt wurden: Joachim Ringelnatz schrieb Kuttel Daddeldu erzählt seinen Kindern das Märchen vom Rotkäppchen. Weder Rotkäppchen selber, noch die Zuhörer/Leser werden hier allzu sanft behandelt. Der Erzähler identifiziert sich mit der Großmutter, die im Laufe des Märchens beginnt, alles zu verschlingen, was in ihre Reichweite kommt. Werner von Bülow dagegen interpretierte „Rotkäppchen“ in den 1920er Jahren in extrem rassistischer und übertrieben nationalistischer Weise und sah sogar Parallelen zur Dolchstoßlegende. Sein Essay erschien im Hakenkreuz-Verlag."
+    },
+    {
+      "id": "rotkaeppchen-c024",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 24,
+      "page": 9,
+      "section": "Vom naiven zum eigenständigen Rotkäppchen",
+      "section_id": "11",
+      "chunk_text": "Vom naiven zum eigenständigen Rotkäppchen — Es gab während dieser Zeit zahlreiche Bestrebungen, sämtliche Grimmsche Märchen auf deutschen Ursprung zurückzuführen, was ziemlich aussichtslos war, da viele aus Frankreich oder anderen europäischen Ländern stammen. Es gab jedoch auch Versuche, der nationalsozialistischen Propaganda entgegenzuwirken. 1937 erschien in den Münchner Neuesten Nachrichten eine anonyme Fassung, die hier als Faksimile wiedergegeben wird. 1939 veröffentlichte der New Yorker Humorist James Thurber seine amerikanischen Works Geschichte The Little Girl and the Wolf, an dessen Ende Rotkäppchen Progress Administration, 1939 eine Pistole zieht und den Wolf erschießt. Mit Thurbers Moral – kleine Mädchen lassen sich heute nicht mehr so leicht hinters Licht führen – begannen sich die originalen Charaktere ins Gegenteil zu verkehren. Nach 1945 folgten zahlreiche Parodien, wie zum Beispiel Catherine Storrs Pollykäppchen (im Band Clever Polly and the Stupid Wolf, 1955). Die schlaue und furchtlose Polly trickst hier den dämlichen und eingebildeten Wolf ein ums andere Mal aus, ohne dabei die Hilfe anderer zu benötigen."
+    },
+    {
+      "id": "rotkaeppchen-c025",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 25,
+      "page": 9,
+      "section": "Vom naiven zum eigenständigen Rotkäppchen",
+      "section_id": "11",
+      "chunk_text": "Vom naiven zum eigenständigen Rotkäppchen — Doch es gab auch ernsthaftere Bearbeitungen, die das Mädchen gewöhnlich ebenfalls eher selbstbewusst darstellen, so auch Versionen feministischer Autoren. Ab und zu wurde Rotkäppchen auch mit dem Kommunismus in Verbindung gebracht und dementsprechend gestaltet. Als gemeinsame Grundidee ist zu erkennen: Rotkäppchen ist nicht länger unschuldig, artig und hilflos, sondern intelligent und durchaus in der Lage, sich selbst zu helfen. In einigen Fassungen wird der Wolf nicht mehr als böser Charakter geschildert, sondern als missverstandene Figur, die im Grunde nur ihre Ruhe haben will, so in Philippe Dumas’ und Boris Moissards Blaukäppchen. Thaddäus Troll schrieb eine Parodie auf Amtsdeutsch. Außerdem versetzte er die Handlung mit Werbesprüchen. Dies soll wohl ebenfalls auf das Thema der Verführung hinweisen. Bei Anneliese Meinert hat die Mutter eine Verabredung, also rast Rotkäppchen mit 180 am Wolf vorbei zur aufgemotzten Oma („...warum hast du so glänzende Augen?“...„Kontaktgläser!“), die aber „eine Bridgepartie“ erwartet. Rotkäppchens Jägerfreund kriegt Kuchen und Whiskey. Rudolf Otto Wiemers Wolf bagatellisiert die Geschichte im Rückblick, und Rotkäppchen, eingeschüchtert, stimmt zu."
+    },
+    {
+      "id": "rotkaeppchen-c026",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 26,
+      "page": 10,
+      "section": "Vom naiven zum eigenständigen Rotkäppchen",
+      "section_id": "11",
+      "chunk_text": "Vom naiven zum eigenständigen Rotkäppchen — Bei Max von der Grün wird es durch seine rote Mütze mit dem weißen Stern plötzlich von allen beneidet und gehasst, bis es sie verliert. In der Musical-Fassung von Floh de Cologne nach Jewgenij Schwarz gründet Rotkäppchen mit den Tieren im Wald eine Tapferkeitsschule und zwingt den korrupten Förster, Großmutter aus dem Wolfsbauch zu befreien. Bei Peter Rühmkorf nascht Rotkäppchen unterwegs von Kuchen und Wein und zieht in der Hütte dem Wolf den Pelz aus, bis die Oma dazwischen kommt. Roald Dahl versuchte, mit seinem Gedicht Little Red Riding Hood (1982) die Leser anzuregen, sich von der traditionellen Märchenrezeption zu lösen und neue Zugänge zu finden. In dem Text stellt Rotkäppchen Fragen zu dem schönen Pelz des Wolfes. Als der verärgerte Wolf sie schließlich fressen will, erschießt sie ihn mit einer Pistole, um seinen Pelz anschließend stolz im Wald umherzutragen. Janoschs elektrisches Rotkäppchen enthält in jedem Satz das Wort elektrisch, es wird also vom elektrischen Wolf zum Besichtigen elektrischer Lampen verführt und schließlich vom Elektriker gerettet. Sławomir Mrożeks gelangweiltes Rotkäppchen phantasiert einen Wolf und wird in Wirklichkeit von der Großmutter unterdrückt."
+    },
+    {
+      "id": "rotkaeppchen-c027",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 27,
+      "page": 10,
+      "section": "Vom naiven zum eigenständigen Rotkäppchen",
+      "section_id": "11",
+      "chunk_text": "Vom naiven zum eigenständigen Rotkäppchen — Auch Günter Grass nimmt in Die Rättin Rotkäppchen und den Wolf auf, und in diesem Roman ergreifen Märchengestalten die Macht, stiften Verwirrung und retten schließlich die Welt. Eine weitere Parodie findet sich in Paul Maars Der Tag, an dem Tante Marga verschwand und andere Geschichten. Rotkäppchen kommt auch in Kaori Yukis Manga Ludwig Revolution vor. Michael Freidank erzählt die Geschichte auf Gossendeutsch. Parodien von Andreas Jungwirth, Katharina Krasemann und Klaus Stadtmüller erschienen in Die Horen. Wladimir Kaminers Sammlung Rotkäppchen raucht auf dem Balkon parodiert in einer Geschichte das Märchen: Das Kind hat bestimmt keine Lust, die Oma zu besuchen. Hans Ritz gibt einen Überblick über Ursprünge, Analsyeversuche und Parodien. Neben den zahlreichen Parodien auf das Märchen, in denen ein Rollentausch zwischen den Hauptfiguren stattfindet, gibt es unzählige Travestien, die das Märchen in Dialekte oder ein anderes Register der Sprache übersetzen: Rotkäppchen auf Bairisch, und in den offiziellen Landessprachen der EU. Dann auf Linguistisch, auf Mathematisch, in der DDR, in der Szene, Rotkäppchen und die Psychoanalyse, die bösen Interpreten."
+    },
+    {
+      "id": "rotkaeppchen-c028",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 28,
+      "page": 10,
+      "section": "Vom naiven zum eigenständigen Rotkäppchen",
+      "section_id": "11",
+      "chunk_text": "Vom naiven zum eigenständigen Rotkäppchen — Besonders der Großmutterdialog „Warum hast du so große Augen“ usw. wird gern zitiert. Zusammenfassend lässt sich sagen, dass sich die Märchenrezeption im Laufe der Zeit und mit Bezug auf gesellschaftliche Entwicklungen wie dem Aufstieg des Bürgertums im 19. Jahrhundert oder der Emanzipation der Frau im 20. Jahrhundert fortlaufend verändert hat. Trotzdem ist auch heute noch die Grimmsche Märchenfassung in Deutschland am bekanntesten. Short Stories parodieren die düsteren Aspekte des Märchens: Bei Tanith Lee wurde die Großmutter zum Werwolf, weil ihr Mann sie schlug. Bei Wendy Wheeler verführt der Liebhaber die Mutter samt Tochter. Bei Kathe Koja verfolgt der Triebtäter das Mädchen bis zu Großmutters Waldhaus. Bei Nalo Hopkinson machte die Oma einst die Wolfserfahrung und will das Kind warnen. In Tanith Lees unernster Parodie wird der Wolf durch Kuss verwandelt. Will Shetterlys Little Red radelt durch die Stadt, der böse Bube hinterher. Angela Carter greift das Märchen mit The Werewolf und The Company of Wolves in The Bloody Chamber auf. Die deutschsprachige Autorin Karen Duve macht eine Werwolfgeschichte daraus. Alethea Kontis ersinnt Liebesbriefe an den Retter."
+    },
+    {
+      "id": "rotkaeppchen-c029",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 29,
+      "page": 10,
+      "section": "Vom naiven zum eigenständigen Rotkäppchen",
+      "section_id": "11",
+      "chunk_text": "Vom naiven zum eigenständigen Rotkäppchen — Christina Henrys Roman Die Chroniken von Rotkäppchen ist eine Endzeitdystopie. Otto Waalkes machte einen Sketch aus Rotkäppchen und ließ es auch in seinem Film 7 Zwerge – Männer allein im Wald auftreten. Der Film Die Zeit der Wölfe verarbeitet das Motiv in einer Fantasy/Horror- Interpretation, während der japanische Anime-Film Jin-Roh die Symbolik des Märchens in eine antifaschistische und gewaltkritische Hintergrundgeschichte einwebt. Im Jahr 2004 verarbeitet die französische Sängerin Zazie die Geschichte des Rotkäppchens in dem Song Toc Toc Toc, in dem sie – aller Wahrscheinlichkeit nach – ihre eigene Entwicklung vom kleinen Mädchen, das die Angst einflößende Geschichte vom Rotkäppchen erzählt bekommt, bis hin zur Frau, die auf der Suche nach den – möglicherweise gar nicht mehr existierenden – Prinzen, eigentlich darauf wartet, vom Wolf gefressen zu werden. Ein Demonstrationsplakat auf oft gezeigten Fernsehbildern der Wendezeit zeigt Egon Krenz’ Gesicht und „Großmutter, warum hast du so große Zähne?“. Einen ganz eigenen Märchenverlauf hat die National Rifle Association entwickelt, bei der Rotkäppchen eine Waffe entsichert. „Oh, wie der Wolf es hasste, wenn Familien gelernt hatten, sich selbst zu verteidigen“, schrieb Amelia Hamilton, um Kinder für die NRA zu gewinnen."
+    },
+    {
+      "id": "rotkaeppchen-c030",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 30,
+      "page": 11,
+      "section": "Kulturgeschichtliche Überformungen",
+      "section_id": "12",
+      "chunk_text": "Kulturgeschichtliche Überformungen — Die Geschichte des Rotkäppchens hat zahlreiche Dramen, Opern sowie eine Reihe von Werken der Bildenden Kunst, vor allem hunderte von Illustrations-Suites in Märchenbüchern aller Art und Filme inspiriert. Ein Scherenschnitt in Henri Matisse’ Serie Jazz stellt Rotkäppchen dar."
+    },
+    {
+      "id": "rotkaeppchen-c031",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 31,
+      "page": 11,
+      "section": "Theater- und Puppenspielfassungen",
+      "section_id": "13",
+      "chunk_text": "Theater- und Puppenspielfassungen — Robert Bürkner: Rotkäppchen als Bühnenstück für Kinder und Erwachsene (1919) Christel und Gerard Mereau: Rotkäppchen als Puppenspiel für Kinder von Christels Puppenbühne. Zülpich Georg A. Weth: Rotkäppchen als Bühnenstück für die Familie mit 13 Volksliedern in Schwälmer Ausstattung (UA Japan 1991, DE 1992), verlegt im VVB-Verlag Norderstedt Gerd-Josef Pohl: Rotkäppchen als Puppenspiel für Kinder im Kindergarten und Grundschulalter (Hrsg.: Piccolo Puppenspiele), Bonn 2003 Roland Richter: Rotkäppchen im Hanauer Marionettentheater in verfremdeter, parodistischer Form"
+    },
+    {
+      "id": "rotkaeppchen-c032",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 32,
+      "page": 11,
+      "section": "Oper",
+      "section_id": "14",
+      "chunk_text": "Oper — François-Adrien Boieldieu: Le petit chaperon rouge. Paris 1818 (letzte deutsche Aufführungsserie: Theater Lübeck 2001). Die Oper hat aber nur den gleichen Titel wie das Märchen, die Handlung ist völlig unterschiedlich. Andreas Kröper: Rotkäppchen. Eine Kinderoper. Zürich 2008 (Uraufführung; Libretto nach Mathilde Wesendonck, Zürich 1861; Musik von Wolfgang Amadeus Mozart, Auswahl verschiedener Opernarien)."
+    },
+    {
+      "id": "rotkaeppchen-c033",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 33,
+      "page": 11,
+      "section": "Musical",
+      "section_id": "15",
+      "chunk_text": "Musical — Floh de Cologne - Rotkäppchen ein Musical nach Motiven von Jewgenij Schwarz. Uraufführung Staatstheater Wiesbaden 1980, Regie Alois Heigl Peter Lund: Grimm – Die wirklich wahre Geschichte von Rotkäppchen und ihrem Wolf. Uraufführung Oper Graz 2014; Musik von Thomas Zaufke"
+    },
+    {
+      "id": "rotkaeppchen-c034",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 34,
+      "page": 12,
+      "section": "Musik",
+      "section_id": "16",
+      "chunk_text": "Musik — Varg: Rotkäppchen auf dem Album Wolfskult erzählt eine alternative Version der Geschichte, in der Rotkäppchen die Großmutter tötet und an den Wolf verfüttert. Das Lied existiert in zwei Versionen, einmal mit Anna Murphy von Eluveitie und einmal mit Robse von Equilibrium als Gastmusiker. Floh de Cologne: Rotkäppchen, ein Märchen mit viel Rock und Pop und Rumtata. LP Pläne K20 905 mit Franz Josef Degenhardt, Hanns Dieter Hüsch, Dieter Süverkrüp, Hannes Wader und vielen anderen."
+    },
+    {
+      "id": "rotkaeppchen-c035",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 35,
+      "page": 12,
+      "section": "Film- und Fernsehadaptionen",
+      "section_id": "17",
+      "chunk_text": "Film- und Fernsehadaptionen — Der Rotkäppchen-Stoff Briefmarken der Deutschen Bundespost (1960) wurde erstmals 1922 verfilmt, ihm folgten zahlreiche Spiel- und Trickfilme, die sich eng an die Vorlage anlehnten. Daneben gibt es noch eine Reihe von Filmen, die mehr oder weniger stark von der Märchenvorlage abweichen oder in denen die Rotkäppchen-Figur in Rotkäppchen trifft im Wald den Rotkäppchen am Bett der anderen Zusammenhängen Wolf. Großmutter, in dem der verkleidete eingesetzt ist. Wolf liegt. 1922: Little Red Riding Hood, Verfilmung von Walt Disney 1937: Rotkäppchen und der Wolf (s/w, z. T. in Farbe) – Regie: Fritz Genschow 1941: The Trial of Mr. Wolf (Zeichentrickfilm, der die Geschichte in Der Jäger befreit die Großmutter Großmutter und Rotkäppchen sind einer parodistischen und Rotkäppchen aus dem Bauch wieder wohlauf und erfreuen sich Gerichtsverhandlung des Wolfs. an den mitgebrachten Gaben. umdreht) 1943: Red Hot Riding Hood (moderne, sexuell konnotierte Zeichentrick-Adaption der Handlung) – Regie: Tex Avery (MGM) 1949: Little Rural Riding Hood (Zeichentrick-Adaption) – Regie: Tex Avery (MGM) 1953: Rotkäppchen – Regie: Fritz Genschow 1954: Rotkäppchen – Regie: Walter Janssen 1960: Rotkäppchen – Regie:"
+    },
+    {
+      "id": "rotkaeppchen-c036",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 36,
+      "page": 13,
+      "section": "Film- und Fernsehadaptionen",
+      "section_id": "17",
+      "chunk_text": "Film- und Fernsehadaptionen — Hans-Günter Bohm 1962: Rotkäppchen (neben dem Original der Brüder Grimm, auch Auszüge der Vorlage des russischen Schriftstellers Jewgeni Lwowitsch Schwarz) – Regie: Götz Friedrich 1965: The Dangerous Christmas of Red Riding Hood, musikalische Parodie mit Liza Minnelli in der Titelrolle; ausgestrahlt am 28. November 1965 auf dem US-Fernsehsender ABC; der böse Wolf stellt das Märchen aus seiner Sicht vor. – Regie: Sid Smith 1969: Die Abenteuer der Cappuccetto, Schweizer TV-Marionettenserie 1977: Über das Rotkäppchen (russisch Про Красную Шапочку), zweiteiliges sowjetisches Film-Musical 1984: Die Zeit der Wölfe – Regie: Neil Jordan 1987: Grimms Märchen (japanische Zeichentrickserie) – Staffel 1, Folge 5: Rotkäppchen 1989: Rotkäppchen (Cannon Movie Tales: Red Riding Hood) – Regie: Adam Brooks 1995: Rotkäppchen (Little Red Riding Hood) – Regie: Toshiyuki Hiruma 1996: Freeway – Regie: Matthew Bright 1999: Jin-Roh, (Anime-Politthriller in dem u. a. die kannibalistische Version des Märchens vorgelesen wird) – Regie: Hiroyuki Okiura 1999: SimsalaGrimm (deutsche Zeichentrickserie) – Staffel 2, Folge 2: Rotkäppchen 2005:"
+    },
+    {
+      "id": "rotkaeppchen-c037",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 37,
+      "page": 13,
+      "section": "Film- und Fernsehadaptionen",
+      "section_id": "17",
+      "chunk_text": "Film- und Fernsehadaptionen — Rotkäppchen – Deutschland, Märchenfilm aus der ZDF-Reihe Märchenperlen, Regie: Klaus Gietinger 2006: Rotkäppchen – Wege zum Glück, Komödie aus der ProSieben/ORF-Reihe Die Märchenstunde (Deutschland/Österreich) – Regie: Tommy Krappweis 2006: Die Rotkäppchen-Verschwörung – Regie: Cory Edwards 2011: Red Riding Hood – Unter dem Wolfsmond (Red Riding Hood) – Regie: Catherine Hardwicke 2011: Once Upon a Time – Es war einmal … (US-amerikanische Fantasyserie) – Staffel 1, Folge 15 2012: Rotkäppchen – Deutschland, Märchenfilm der 5. Staffel aus der ARD-Reihe Sechs auf einen Streich, Regie: Sibylle Tafel 2013: Rotkäppchen: Eine Erzählung von Blut und Tod (deutscher Kurzfilm) – Regie: Florian von Bornstädt u. Martin Czaja ab 2013: Ever After High, Shannon Hale 2021: Red Riding Hood (deutscher Kurzfilm) – Regie: Christopher Bailey 2024: The Grimm Variations – Folge 2 Rotkäppchen (Anime Kurzfilm) – Studio: Wit Studio"
+    },
+    {
+      "id": "rotkaeppchen-c038",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 38,
+      "page": 13,
+      "section": "Hörspiele",
+      "section_id": "18",
+      "chunk_text": "Hörspiele — Grammatik / Dieser wankende Sommerton von Ute-Christine Krupp, Saarländischer Rundfunk, Saarbrücken 1995."
+    },
+    {
+      "id": "rotkaeppchen-c039",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 39,
+      "page": 13,
+      "section": "Comics",
+      "section_id": "19",
+      "chunk_text": "Comics — Bekannte Comic-Interpretationen des Stoffes mit einer eindeutig erotischen bzw. pornografischen Ausrichtung finden sich u. a. in einer Reihe des Zwerchfell Verlages aus dem Jahre 2000, sowie von Mart Klein in einer selbst verlegten Diplomarbeit vom Mai 2009."
+    },
+    {
+      "id": "rotkaeppchen-c040",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 40,
+      "page": 14,
+      "section": "Computerspiele",
+      "section_id": "20",
+      "chunk_text": "Computerspiele — Das Märchen wurde 2009 für das Computerspiel The Path verwendet. Die Spielidee: Da Gefahren drohen, soll der Spieler den Pfad zur Hütte der Großmutter nicht verlassen. Gerade das ist aber möglich und natürlich besonders verführerisch."
+    },
+    {
+      "id": "rotkaeppchen-c041",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 41,
+      "page": 14,
+      "section": "Werbung",
+      "section_id": "21",
+      "chunk_text": "Werbung — Rotkäppchen und der Wolf waren und sind beliebte Objekte in der Werbung. Viele Produkte wurden bereits mit diesen Figuren beworben, unter anderem Kaffee, Essig, Bier, Gebäck, Schokolade, Nähgarn, Strickwolle. Besondere Motivseite der 20-Euro-Gedenkmünze Anwendung findet das Motiv beim Rotkäppchen-Sekt aus Freyburg an der Unstrut, indem hier die Flaschen mit einer roten Kappe verschlossen sind. Ein Kaufhaus warb um 1990: „… Großmutter, warum hast du so viel Kohle? …“ In einer Fernsehwerbung 2018 weiß Rotkäppchen, dass das Auto nicht zur Vertragswerkstatt muss, damit die Garantie bleibt („Schluss mit den Märchen“)."
+    },
+    {
+      "id": "rotkaeppchen-c042",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 42,
+      "page": 14,
+      "section": "Philatelistisches",
+      "section_id": "22",
+      "chunk_text": "Philatelistisches — 1960 erschien bei der Deutschen Bundespost eine Serie von vier Wohlfahrtsmarken mit Abbildungen aus diesem Märchen (s. o.). Mit dem Erstausgabetag 11. Februar 2016 gab auch die Deutsche Post AG drei Wohlfahrtsmarken in der Serie Grimms Märchen mit den Titeln Im Wald (Wert: 70 + 30 Eurocent), Bei der Großmutter (Wert: 85 + 40 Eurocent) und Gutes Ende (Wert: 145 + 55 Eurocent) heraus. Der Entwurf der Marken stammt von den Grafikern Lutz Menze und Astrid Grahl aus Wuppertal."
+    },
+    {
+      "id": "rotkaeppchen-c043",
+      "doc": "Rotkaeppchen.pdf",
+      "chunk_index": 43,
+      "page": 14,
+      "section": "Gedenkmünzen",
+      "section_id": "23",
+      "chunk_text": "Gedenkmünzen — Am 4. Februar 2016 wurde von der Bundesrepublik Deutschland in der Serie Grimms Märchen eine silberne Gedenkmünze mit einem Nominalwert von 20 Euro herausgegeben. Das Motiv wurde entworfen von Elena Gerber."
+    }
+  ]
+}

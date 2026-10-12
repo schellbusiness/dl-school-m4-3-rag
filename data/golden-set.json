@@ -1,0 +1,76 @@
+{
+  "namespace": "vanessa-docs",
+  "description": "Golden Set M4.3.3 – feste Fragen mit richtiger Antwort und Fundstelle. expected_chunk_id = null heißt: Die Chain muss ablehnen.",
+  "questions": [
+    {
+      "question": "Seit wann ist die Pizza mit Tomaten nachgewiesen?",
+      "expected_answer": "Seit etwa der Mitte des 18. Jahrhunderts, als die Tomate in Süditalien populär wurde.",
+      "must_contain": ["18. Jahrhundert"],
+      "expected_chunk_id": "pizza-c004",
+      "source": "Pizza.pdf · Geschichte 18. Jahrhundert · S. 2 · Chunk 4"
+    },
+    {
+      "question": "Welche Zutaten hat die Pizza Margherita und wofür stehen ihre Farben?",
+      "expected_answer": "Basilikum (grün), Mozzarella (weiß) und Tomaten (rot), die italienischen Nationalfarben.",
+      "must_contain": ["Basilikum", "Mozzarella", "Tomate"],
+      "expected_chunk_id": "pizza-c005",
+      "source": "Pizza.pdf · 19. Jahrhundert / Pizza Margherita · S. 2 · Chunk 5"
+    },
+    {
+      "question": "Wann und wo wurde die erste Pizzeria in Deutschland eröffnet?",
+      "expected_answer": "Im März 1952 in Würzburg (Sabbie di Capri, Nicolino di Camillo).",
+      "must_contain": ["1952", "Würzburg"],
+      "expected_chunk_id": "pizza-c006",
+      "source": "Pizza.pdf · 20. Jahrhundert · S. 3 · Chunk 6"
+    },
+    {
+      "question": "Seit wann gehört die neapolitanische Pizzabäckerkunst zum UNESCO-Kulturerbe?",
+      "expected_answer": "Seit 2017 (immaterielles Kulturerbe der Menschheit).",
+      "must_contain": ["2017"],
+      "expected_chunk_id": "pizza-c001",
+      "source": "Pizza.pdf · Pizza · S. 1 · Chunk 1"
+    },
+    {
+      "question": "Womit ist eine Pizza Hawaii belegt?",
+      "expected_answer": "Mit Kochschinken und Ananas; sie ist nordamerikanischen Ursprungs.",
+      "must_contain": ["Ananas"],
+      "expected_chunk_id": "pizza-c013",
+      "source": "Pizza.pdf · US-amerikanische Pizza · S. 6 · Chunk 13"
+    },
+    {
+      "question": "Wie hieß die eigene Pizza-Variante der DDR-Gastronomie?",
+      "expected_answer": "Krusta – auf dem Blech gebacken, in handgroße Rechtecke geschnitten, 1976 in Leipzig vorgestellt.",
+      "must_contain": ["Krusta"],
+      "expected_chunk_id": "pizza-c016",
+      "source": "Pizza.pdf · Pizza in der DDR · S. 7 · Chunk 16"
+    },
+    {
+      "question": "Unter welcher Nummer steht Rotkäppchen in den Kinder- und Hausmärchen der Brüder Grimm?",
+      "expected_answer": "Unter Nummer 26 (KHM 26).",
+      "must_contain": ["26"],
+      "expected_chunk_id": "rotkaeppchen-c001",
+      "source": "Rotkaeppchen.pdf · Rotkäppchen · S. 1 · Chunk 1"
+    },
+    {
+      "question": "Was bringt Rotkäppchen der Großmutter im Korb mit?",
+      "expected_answer": "Kuchen und Wein.",
+      "must_contain": ["Kuchen", "Wein"],
+      "expected_chunk_id": "rotkaeppchen-c003",
+      "source": "Rotkaeppchen.pdf · Inhalt · S. 2 · Chunk 3"
+    },
+    {
+      "question": "Aus welchem anderen Grimm-Märchen ist das Ende mit den Steinen im Bauch des Wolfes entliehen?",
+      "expected_answer": "Aus „Der Wolf und die sieben jungen Geißlein“.",
+      "must_contain": ["Geißlein"],
+      "expected_chunk_id": "rotkaeppchen-c016",
+      "source": "Rotkaeppchen.pdf · Erste deutsche Fassungen · S. 6 · Chunk 16"
+    },
+    {
+      "question": "Wie viele Kalorien hat eine Pizza Margherita?",
+      "expected_answer": "Ablehnung: Dazu steht nichts in meinen Dokumenten.",
+      "must_contain": ["Dazu steht nichts in meinen Dokumenten"],
+      "expected_chunk_id": null,
+      "source": "– (nicht in den Dokumenten)"
+    }
+  ]
+}
